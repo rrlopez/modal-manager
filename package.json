@@ -5,7 +5,7 @@
   "main": "./build/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rrlopez/modal-manager.git"
+    "url": "https://github.com/rrlopez/modal-manager"
   },
   "bugs": {
     "url": "https://github.com/rrlopez/modal-manager/issues"
