@@ -34,5 +34,8 @@
   "release":{
     "branches": ["main", "next"]
   },
-  "private": false
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
 }
