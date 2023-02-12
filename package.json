@@ -31,8 +31,11 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0"
   },
-  "release":{
-    "branches": ["main", "next"]
+  "release": {
+    "branches": [
+      "main",
+      "next"
+    ]
   },
   "private": false,
   "publishConfig": {
