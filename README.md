@@ -1,0 +1,1 @@
+# rrlopez/modal-manager
